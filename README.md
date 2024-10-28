@@ -18,7 +18,7 @@ This repository explores the multifaceted barriers preventing sedentary adults i
 
 **Inconsistent Reporting:** There might not be consistent reporting across the United States by region. There may also be inconsistent data due to self-reported activity leading to biased findings.
 
-**Representativeness and bias:**  Many datasets have limited representation of marginalized or hard to access populations. Data at a state level may not capture localized barriers. Acknowledging and addressing these biases is crucial for an objective analysis.
+**Representativeness and Bias:**  Many datasets have limited representation of marginalized or hard to access populations. Data at a state level may not capture localized barriers. Acknowledging and addressing these biases is crucial for an objective analysis.
 
 These factors shape data interpretation, necessitating a careful and objective analysis. 
 
