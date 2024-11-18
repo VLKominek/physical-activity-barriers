@@ -7,10 +7,10 @@ This repository explores the multifaceted barriers preventing sedentary adults i
 
 
 ## Focus Areas
--Geographic analysis of physical activity rates, obesity trends, exercise participation, and aerobic activity by region.
--Demographic insights into income and employment trends across states.
--Examination of costs associated with accessing physical activity.
--Review of legislation addressing obesity, nutrition, and physical activity.
+- Geographic analysis of physical activity rates, obesity trends, exercise participation, and aerobic activity by region.
+- Demographic insights into income and employment trends across states.
+- Examination of costs associated with accessing physical activity.
+- Review of legislation addressing obesity, nutrition, and physical activity.
 
 
 ## Challenges & Lessons Learned:
