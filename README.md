@@ -8,7 +8,7 @@ This repository explores the multifaceted barriers preventing sedentary adults i
 
 ## Focus Areas
 - Geographic
-- Education
+- Demographic
 - Cost
 - Legislation
 
