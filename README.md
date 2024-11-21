@@ -14,13 +14,15 @@ This repository explores the multifaceted barriers preventing sedentary adults i
 
 
 ## Challenges & Lessons Learned:
-**Confounding Variables:**  Economic, social, and environmental factors may interact in a complex way making it difficult to truly isolate the impact of specific barriers.  
+**Confounding Variables:** Economic, social, and environmental factors may interact in a complex way making it difficult to truly isolate the impact of specific barriers. For example, the interplay between income, access to recreational spaces, and cultural norms can obscure causal relationships.
 
 **Inconsistent Reporting:** There might not be consistent reporting across the United States by region. There may also be inconsistent data due to self-reported activity leading to biased findings.
 
-**Representativeness and Bias:**  Many datasets have limited representation of marginalized or hard to access populations. Data at a state level may not capture localized barriers. Acknowledging and addressing these biases is crucial for an objective analysis.
+**Representativeness and Bias:** Many datasets lack adequate representation of marginalized or hard-to-reach populations, such as those living in rural areas or within underserved communities. Additionally, aggregated state-level data may obscure localized barriers, such as urban-rural disparities or community-specific challenges. Acknowledging and addressing these biases is crucial for an objective analysis.
 
-These factors shape data interpretation, necessitating a careful and objective analysis. 
+**Data Gaps:** There is limited availability of standardized data on some key factors, such as the true costs associated with fitness activities or the effectiveness of legislative measures in improving physical activity rates.
+
+These challenges underscore the importance of critical evaluation, thoughtful methodology, and transparency in data interpretation to ensure the findings provide meaningful and actionable insights.
 
 
 ## Important Links
